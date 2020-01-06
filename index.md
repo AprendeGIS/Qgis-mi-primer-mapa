@@ -3,26 +3,20 @@ layout: index
 published: true
 ---
 
-## Create your own online course (and keep it)
+## PRESENTACIÓN
+La  información de primera mano, recolectada del propio terreno de trabajo, es uno de los más valiosos recursos que una institución o un profesional puede tener. Los altos costos de realizar un levantamiento de campo justifican grandemente, el dedicar tiempo y esfuerzo en el diseño, planificación y gestión de los datos resultantes.
 
-Course in a Box is an open source, online course creation tool. It is designed to minimize the amount of time you need to spend fumbling around with technology, allowing you to focus on bringing together the resources, activities, and lessons that you want to share with the world.
+Con la mejora de software para Sistema de Información Geográfica (SIG) es una necesidad generar o reforzar capacidades técnicas de los especialistas, para obtener un mayor valor agregado de los estudios de línea de base, los inventarios, censos y demás procesos de trabajo que se realizan en el quehacer de las instituciones o dentro de las responsabilidades del profesional o investigador.
 
-Course materials are written in [Markdown](https://www.markdownguide.org/) and hosted on [Github](https://www.github.com), a popular development platform that allows for collaborative drafting, version control, and easy dissemination of your course.
+El desarrollo de los Sistemas de Posicionamiento Global (GPS) y de la tecnología móvil,  ha sido tal en los últimos años que ya es familiar para cualquier persona el uso de aplicaciones móviles que aprovechan los datos de geolocalización que se ofrecen en distintas plataformas y para diferentes usos (por ejemplo las aplicaciones como waze que permiten conocer el estado del tráfico en la vía que transita, o facebook y whatasapp que permiten compartir su ubicación geográfica para ser localizado por sus amigos y contactos, así como para promover diferentes atractivos o servicios turísticos.
 
-Using Course in a Box and hosting a course on Github are **completely free**, and we’ve outlined the process for putting together a course [on our blog](https://info.p2pu.org/2019/05/16/creating-an-open-course-with-p2pu/). If you’d like to hire us to help you set things up and/or co-design the course with you, [we can do that](https://www.p2pu.org/en/work-with-us/). 
+El presente curso invita a los profesionales de diversos sectores a tomar ventaja de una herramienta de gran versatilidad y utilidad. El GPS que es incluido en la mayoría de los móviles modernos como un instrumento de generación de datos para un SIG.
+ 
+El conocimiento de las funcionalidades del SIG es sin duda de gran valor para todo profesional relacionado a sectores como el medioambiente, el turismo y el cambio climático por mencionar algunos pocos.
+ 
+Este curso promueve el aprendizaje práctico y aplicado, tomando estudios de caso comunes a sectores como el turismo, medioambiente o el ordenamiento territorial. 
+ 
+El curso está estructurado en pequeñas lecciones que se integrarán en lecturas (como este documento), vídeos, documentos web, presentaciones interactivas y foro de discusión, que permitirá al participante tener acceso a una gran gama de información y ayuda para concretar el objetivo del Curso.
 
-
-Here are some recent courses that have been built with Course in a Box:
-
-- [Learning to (re)use open educational resources](http://www.exploerercourse.org/) by Creative Commons & Open University
-- [Create and sustain effective makerspaces in your community](http://p2pu.github.io/makingandlearning/) by Pittsburgh Children’s Museum
-- [Learning about learning circles](https://p2pu.github.io/facilitate-course/) by P2PU
-
-
-## Reach new audiences
-
-Online courses take a big step forwards in the sharing of knowledge around the world. However, your course is only ever as good as the people it reaches. To help reach new audiences with online courses, P2PU developed learning circles: groups for people who take online courses together, in local libraries or community spaces.
-
-Once you create a course, you can add it to P2PU’s learning circle [course page](http://p2pu.org/en/courses/), a growing database of online courses that people are using to facilitate learning circles around the world. You can also check out our [facilitator page](https://www.p2pu.org/en/facilitate/) to learn how to run your own learning circle.
 
 
